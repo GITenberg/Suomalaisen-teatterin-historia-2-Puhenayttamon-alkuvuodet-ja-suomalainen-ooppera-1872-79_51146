@@ -1,0 +1,28 @@
+_repo: Suomalaisen-teatterin-historia-2-Puhenayttamon-alkuvuodet-ja-suomalainen-ooppera-1872-79_51146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aspelin-Haapkylä, Eliel
+    aliases:
+    - Aspelin, Eliel
+    - Aspelin-Haapkyla, Eliel
+    birthdate: 1847
+    deathdate: 1917
+    gutenberg_agent_id: '42975'
+    url: http://www.gutenberg.org/2009/agents/42975
+description: ''
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51146'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Finland'
+- !lcc 'PN'
+- GITenberg
+title: "Suomalaisen teatterin historia 2\r\nPuhenäyttämön alkuvuodet ja suomalainen\
+  \ ooppera. 1872-79"
+url: http://www.gutenberg.org/ebooks/51146
